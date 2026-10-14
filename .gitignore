@@ -1,0 +1,6 @@
+# 项目工具/记忆数据，不入库
+.workbuddy/
+
+# Python 运行时缓存
+__pycache__/
+*.pyc
