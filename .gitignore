@@ -4,3 +4,8 @@
 # Python 运行时缓存
 __pycache__/
 *.pyc
+
+# 中文字体：系统字体，体积大且不宜公开分发，不入库
+# 换机器需自行把字体放到 fonts/simhei.ttf；公开发布建议换开源字体（思源黑体/Noto Sans SC）
+fonts/*.ttf
+fonts/*.ttc
