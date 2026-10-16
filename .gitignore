@@ -9,3 +9,7 @@ __pycache__/
 # 换机器需自行把字体放到 fonts/simhei.ttf；公开发布建议换开源字体（思源黑体/Noto Sans SC）
 fonts/*.ttf
 fonts/*.ttc
+
+# 本地测试截图（冒烟测试产物）
+screenshot*.png
+_shot*.png
